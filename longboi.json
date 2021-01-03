@@ -4,24 +4,24 @@
 		{
 			"type":"platform",
 			"pos": 0,
-			"end": 70
+			"end": 1000
 		},
 		{
 			"type":"platform",
-			"pos": 270,
-			"end": 500
+			"pos": 2000,
+			"end": 3500
 		},
 		{
 			"type":"flag",
-			"pos": 500,
-			"end": 500
+			"pos": 3500,
+			"end": 3500
 		}
 	],
 	"custom":
 	{
 		"skyColor": "default",
+		"characterSize": "default",
 		"characterColor": "default",
-		"groundColor": "default",
-		"characterSize": "default"
+		"groundColor": "default"
 	}
 }
